@@ -1,0 +1,4 @@
+Run Python main.py
+It will iterate through all 6 images and will save the pictures.
+
+Program runs extremly slow. I am still new to python so I do not know many shortcuts to make the runtime faster. 
